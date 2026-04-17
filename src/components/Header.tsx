@@ -16,7 +16,7 @@ const Header: React.FC<HeaderProps> = ({ percentComplete }) => {
     <header className="header animate-fade-in">
       <div className="header-content">
         <div className="title-group">
-          <h1 className="app-title">FocusQuest</h1>
+          <h1 className="app-title">AbdoQuest</h1>
           <p className="current-date">{today}</p>
         </div>
         <div className="progress-container">
